@@ -14,19 +14,30 @@
 	<packaging>war</packaging>
 	<name>alkewallet</name>
 	<description>Billetera Virtual</description>
-	<url/>
+	<url>https://github.com/tu-usuario/alkewallet</url>
 	<licenses>
-		<license/>
+		<license>
+			<name>MIT License</name>
+			<url>https://opensource.org/licenses/MIT</url>
+			<distribution>repo</distribution>
+		</license>
 	</licenses>
 	<developers>
-		<developer/>
+		<developer>
+			<id>Ismael-Jim</id>
+			<name>Ismael Jimenez </name>
+			<email>ismael.jimenezr13@gmail.com</email>
+			<organization>Alkemy</organization>
+			<organizationUrl>https://www.englishalways.com</organizationUrl>
+		</developer>
 	</developers>
 	<scm>
-		<connection/>
-		<developerConnection/>
-		<tag/>
-		<url/>
+		<connection>scm:git:git://github.com/tu-usuario/alkewallet.git</connection>
+		<developerConnection>scm:git:ssh://github.com:tu-usuario/alkewallet.git</developerConnection>
+		<tag>HEAD</tag>
+		<url>https://github.com/tu-usuario/alkewallet</url>
 	</scm>
+
 	<properties>
 		<java.version>21</java.version>
 	</properties>
